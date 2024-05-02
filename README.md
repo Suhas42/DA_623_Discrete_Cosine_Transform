@@ -5,8 +5,8 @@ In this tutorial, we will cover the fundamentals of the DCT, its mathematical re
 
 <ins>Contents in Files:</ins>
 
-  1. DCT_first.py - This is the code used on this picture in the Jupyter Notebook (the first example)
-  2. DCT_second.py - This is the code used on this picture in the Jupyter Notebook  (the second example)
+  1. DCT_first.py - This is the code used on this [picture](https://drive.google.com/uc?id=1xC5WqpPABeid17F-s0j8tRQvQDaSFwUv) in the Jupyter Notebook (the first example)
+  2. DCT_second.py - This is the code used on this [picture](https://drive.google.com/uc?id=1j1EA63AzhKMklG5DC0kLlNI7Nis7dWJG) in the Jupyter Notebook  (the second example)
 
 <ins>References:</ins>
 
